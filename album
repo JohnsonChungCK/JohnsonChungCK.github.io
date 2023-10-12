@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="mystyle.css">
+<title>Album</title>
+</head>
+<body><!-- Inspired by W3 schools -->
+<div class="menubar">
+  <a href="index.html">Home</a>
+  <a href="album.html">Album</a>
+  <a href="contact.html">Contact</a>
+</div>
+
+<!-- Inspired by W3 schools -->
+
+<div class="container">
+	<img src="images/Rice_harvesting.jpg" alt="RiceHarvesting" class="image">
+	<div class="overlay">
+		<div class="text">Rice Harvest</div>
+	</div>
+</div>
+
+<div class="container">	
+<img src="images/Rice_planting.jpg" alt="RicePlanting" class="image">
+	<div class="overlay">
+		<div class="text">Rice Planting</div>
+	</div>	
+</div>	
+
+<div class="container">	
+<img src="images/Survey.jpg" alt="Survey" class="image">
+	<div class="overlay">
+		<div class="text">Bird Survey</div>
+	</div>	
+</div>	
+
+<div class="container">
+<img src="images/Wetland.jpg" alt="Wetland" class="image">
+	<div class="overlay">
+		<div class="text">Wetland Conservation</div>
+	</div>	
+</div>	
+
+<div class="container">
+<img src="images/BlackFacedSpoonbill.jpg" alt="BlackFacedSpoonbill" class="image">
+	<div class="overlay">
+		<div class="text">Black-faced Spoonbill</div>
+	</div>	
+</div>	
+
+<div class="container">
+<img src="images/CanadaGoose.jpg" alt="CanadaGoose" class="image">
+	<div class="overlay">
+		<div class="text">Canada Goose</div>
+	</div>	
+</div>	
+
+
+
+<div><a>All photos in this website credit to Johnson Chung</a></div>
+
+</body>
+</html>
+
+
