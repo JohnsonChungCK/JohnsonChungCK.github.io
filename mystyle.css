@@ -1,0 +1,102 @@
+head{
+	font-size:50px; color:black; background-color:00B7C3
+}
+
+body {
+	background-color: #D0D0D1;
+}
+
+.menubar {
+  overflow: hidden;
+  background-color: #585858;
+}
+
+.menubar a{
+  float: left;
+  color: #33D4FF;
+  text-align: center;
+  padding: 20px 20px;
+  text-decoration: none;
+  font-size: 25px;
+}
+
+.menubar a:hover {
+  background-color: #ddd;
+  color: black;
+}
+
+h1 {
+	color:blue;
+	text-align:center;
+	font-size:40px;
+	padding-top:10px;
+	padding-right:10px;
+	padding-bottom:10px;
+	padding-left:10px;
+}
+
+h2 {
+	color:purple;
+	font-size:40px;
+}
+
+p1 {
+	color:#1D44A0;
+	text-align:justify;
+	font-size:20px;
+	padding-top:10px;
+	padding-right:10px;
+	padding-bottom:10px;
+	padding-left:10px;
+}
+
+/*  Inspired by W3 schools */
+
+.container {
+  position: relative;
+  width: 100%;
+}
+
+.image {
+  width: 1000px;
+  height: auto;
+}
+
+.overlay {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background-color: #008CBA;
+  overflow: hidden;
+  width: 0;
+  height: 100%;
+  transition: 1s ease;
+}
+
+.container:hover .overlay {
+  width: 1000px;
+  opacity: 0.8;
+}
+
+.text {
+  color: black;
+  font-size: 30px;
+  text-align: center;
+  position: absolute;
+  top: 50%;
+  left: 40%;
+  
+}
+
+
+#profile {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 400px;
+  height:600px;
+}
+
+
+
