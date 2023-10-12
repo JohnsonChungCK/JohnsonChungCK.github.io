@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<link rel="stylesheet" href="mystyle.css">
+<title>Contact</title>
+</head>
+<body>
+<!-- Inspired by W3 schools -->
+<div class="menubar">
+  <a href="index.html">Home</a>
+  <a href="album.html">Album</a>
+  <a href="contact.html">Contact</a>
+</div>
+
+<div>
+	<h1>My Contact:</h1>
+	<p1>Email: chchun@flemingcollege.canvas<br>Website:XXXXXX</p1>
+</div>
+
+<div>
+	<h2>Social Media</h2>
+	<a href="https://www.facebook.com/johnson.chung.77"><img src="images/FB_icon_100height.png" alt="Facebook"></a>
+	<a href="https://www.linkedin.com/in/chun-kit-chung-ba6987249/"><img src="images/Linkedin_icon_100height.png" alt="Linkedin"></a>
+	
+
+
+
+</body>
+</html>
