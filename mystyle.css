@@ -58,7 +58,7 @@ p {
 }
 
 /*  Inspired by W3 schools */
-
+/*  When the mouse hover, it will diplay the title and story of the photos. */
 .container {
   position: relative;
   width: 100%;
@@ -69,6 +69,7 @@ p {
   height: 560px;
 }
 
+/*  The overlay is set 50% height of the photo and its opacity is 0.8, this let user see the photo and word at the same time. */
 .overlay {
   position: absolute;
   bottom: 0;
@@ -139,6 +140,7 @@ p {
 	height: 100px;
 }
 
+/*  This id locates the profile pic at the center of the webpage. */
 #profile {
   display: block;
   padding-top:30px;
