@@ -58,7 +58,7 @@ p {
 }
 
 /*  Inspired by W3 schools */
-/*  When the mouse hover, it will diplay the title and story of the photos. */
+/*  When the cursor hover, it will display the title and story of the photos. */
 .container {
   position: relative;
   width: 100%;
@@ -98,7 +98,7 @@ p {
 	background-color: #CEE3ED;
   
 }
-
+/*  Change the photo title font design. */
 .phototext {
 	color:#0B7FB6;
 	font-family:Cursive;
@@ -110,6 +110,7 @@ p {
   
 }
 
+/*  Change the story font design. */
 .storytext {
 	color:#00486A;
 	font-family:Serif;
@@ -122,6 +123,7 @@ p {
 	height:600px;
 }	
 
+/*  Change the contact font design. */
 .contact {
 	color:blue;
 	font-family:Cursive;
